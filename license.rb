@@ -2,10 +2,10 @@ require "formula"
 
 class License < Formula
   homepage "https://github.com/tcnksm/license"
-  version '0.1.0'
+  version '0.1.1'
 
-  url "https://github.com/tcnksm/license/releases/download/0.1.0/license_0.1.0_darwin_amd64.zip"
-  sha1 "5f3c183c9d598481a367547460ffed4cedb46018"
+  url "https://github.com/tcnksm/license/releases/download/0.1.1/license_0.1.1_darwin_amd64.zip"
+  sha1 "388aab77fe0102064796d464739e5946152efdba"
 
   depends_on :arch => :intel
 
